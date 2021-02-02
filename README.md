@@ -1,0 +1,1 @@
+# unity-asset-package-project-template
