@@ -1,1 +1,1 @@
-# unity-asset-package-project-template
+# Unity asset package project template
